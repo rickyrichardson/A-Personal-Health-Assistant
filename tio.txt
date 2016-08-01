@@ -1,0 +1,10 @@
+[Presentation View - Roadmap (Weekly)].[IBM Geography].[IOT]
+[Presentation View - Roadmap (Daily)].[IBM Geography].[IOT]
+
+(?s)not starts with \(&#39;Unspecified&#39;\)
+
+
+Case
+When [IOT]='North America' then 'America'
+else 'Parabola'
+end
