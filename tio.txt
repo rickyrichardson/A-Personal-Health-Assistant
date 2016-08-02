@@ -3,6 +3,8 @@
 
 (?s)not starts with \(&#39;Unspecified&#39;\)
 
+Os,an
+
 
 Case
 When [IOT]='North America' then 'America'
