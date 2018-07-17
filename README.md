@@ -1,4 +1,4 @@
-# WatBot - An Android ChatBot powered by IBM Watson
+# WatBot - A Personal Health Assistant
 
 [![Build Status](https://travis-ci.org/IBM-Cloud/chatbot-watson-android.svg?branch=master)](https://travis-ci.org/IBM-Cloud/chatbot-watson-android)
 
