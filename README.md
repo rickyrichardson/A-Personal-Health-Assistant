@@ -6,11 +6,11 @@ WatBot is an IBM Watson powered ChatBot running on Android and using Conversatio
 
 ## Supervisor**, Guide** & Team Members*
 
-- Dr. KALEEM FATIMA**, MJ College of Engineering & Technology, Hyderabad
+- Dr. KALEEM FATIMA**, Professor, ECE Department, MJ College of Engineering & Technology, Hyderabad
 - MOHAMMAD OSMAN**, IBM India.
-- ARIFA SULTANA (ROLL NO: 1604-14-735-061)*, MJ College of Engineering & Technology, Hyderabad
-- AHMED ABDUL HAFEEZ (ROLL NO: 1604-14-735-086)*, MJ College of Engineering & Technology, Hyderabad
-- MOHD. KHAJA ILIAS PASHA (ROLL NO: 1604-14-735-119)*, MJ College of Engineering & Technology, Hyderabad
+- ARIFA SULTANA (arifasultana1296@gmail.com)*, MJ College of Engineering & Technology, Hyderabad
+- AHMED ABDUL HAFEEZ (h.ahmedabdul@gmail.com)*, MJ College of Engineering & Technology, Hyderabad
+- MOHD. KHAJA ILIAS PASHA (iliaspasha@gmail.com)*, MJ College of Engineering & Technology, Hyderabad
 
 <h2>Coding the app on Android Studio</h2>
 Android Studio is the Official IDE for Android. Android Studio provides the fastest tools for building apps on every type of Android device.
